@@ -73,9 +73,6 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton("❆ Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link)
-                [
-                InlineKeyboardButton("🤔 Wʜʏ Iᴍ Jᴏɪɴɪɴɢ", url="https://telegra.ph/Wʜʏ-Iᴍ-Jᴏɪɴɪɴɢ-09-03")
-            ]
             ]
         ]
 
