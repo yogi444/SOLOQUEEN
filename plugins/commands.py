@@ -73,7 +73,9 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton("❆ Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link)
-            ]
+            ],[
+                InlineKeyboardButton("🤔 Wʜʏ Iᴍ Jᴏɪɴɪɴɢ", url='https://telegra.ph/Wʜʏ-Iᴍ-Jᴏɪɴɪɴɢ-09-03')
+              ]
         ]
 
         if message.command[1] != "subscribe":
@@ -154,7 +156,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("MY Owner", url="t.me/Itz_me_444")
+                          InlineKeyboardButton("MY Owner", url="https://t.me/Itz_me_444")
                          ]
                         ]
                     )
@@ -173,7 +175,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("MY Owner", url="t.me/Itz_me_444")
+                          InlineKeyboardButton("MY Owner", url="https://t.me/Itz_me_444")
                          ]
                         ]
                     )
@@ -337,7 +339,7 @@ async def start(client, message):
                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("MY Owner", url="t.me/Itz_me_444")
+                      InlineKeyboardButton("MY Owner", url="https://t.me/Itz_me_444")
                      ]
                     ]
                 )
@@ -399,7 +401,7 @@ async def start(client, message):
                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("MY Owner", url="t.me/Itz_me_444")
+                      InlineKeyboardButton("MY Owner", url="https://t.me/Itz_me_444")
                      ]
                     ]
                 )
@@ -459,7 +461,7 @@ async def start(client, message):
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("MY Owner", url="t.me/Itz_me_444")
+              InlineKeyboardButton("MY Owner", url="https://t.me/Itz_me_444")
              ]
             ]
         )
