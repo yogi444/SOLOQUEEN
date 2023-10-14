@@ -1385,8 +1385,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            InputMediaPhoto(random.choice(https://graph.org/file/46fd33d87206259d3071b.jpg))
-        )
+            InputMediaPhoto(https://graph.org/file/46fd33d87206259d3071b.jpg)
         await query.message.edit_text(
             text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
